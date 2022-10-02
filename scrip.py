@@ -153,4 +153,4 @@ while True:
     print(strCyan(str("Major Resistance in Nifty:")) + str(nf_highestoi_PE))
     print(strPurple(str("Major Support in Bank Nifty:")) + str(bnf_highestoi_CE))
     print(strPurple(str("Major Resistance in Bank Nifty:")) + str(bnf_highestoi_PE))
-    time.sleep(5)
+    time.sleep(2)
